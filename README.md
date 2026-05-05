@@ -1,6 +1,6 @@
 # 🔍 Buscador de Perfis do GitHub
 
-🔗 **Acesse o projeto rodando ao vivo:** [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://busca-de-usu-rios-com-api-do-git-hu.vercel.app/)
+🔗 **Acesse o projeto rodando ao vivo:** [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://busca-de-usuarios-com-api-do-git-hu.vercel.app/)
 
 Um projeto simples e interativo construído com React para buscar e exibir informações de usuários do GitHub utilizando a API pública da plataforma. 
 
