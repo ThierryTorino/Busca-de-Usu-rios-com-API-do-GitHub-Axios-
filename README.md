@@ -1,16 +1,21 @@
-# React + Vite
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://busca-de-usu-rios-com-api-do-git-hu.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔍 Buscador de Perfis do GitHub
 
-Currently, two official plugins are available:
+Um projeto simples e interativo construído com React para buscar e exibir informações de usuários do GitHub utilizando a API pública da plataforma. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este projeto foi desenvolvido como um exercício prático para consolidar conceitos fundamentais do React, como consumo de APIs REST, gerenciamento de estados e estilização utilitária.
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Busca Dinâmica:** Pesquise qualquer usuário do GitHub pelo seu `username`.
+- **Consumo de API:** Integração direta com a API pública do GitHub usando Axios.
+- **Feedback Visual:** Telas de carregamento ("Loading...") e tratamento de erros (ex: quando o usuário não existe).
+- **Interface Responsiva:** Estilização limpa e moderna utilizando Tailwind CSS.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **[React](https://react.dev/):** Biblioteca JavaScript para construção da interface.
+- **[Axios](https://axios-http.com/):** Cliente HTTP baseado em Promises para fazer as requisições à API.
+- **[Tailwind CSS](https://tailwindcss.com/):** Framework CSS utilitário para estilização rápida e responsiva.
+- **[GitHub REST API](https://docs.github.com/pt/rest):** Para o fornecimento dos dados dos usuários.
