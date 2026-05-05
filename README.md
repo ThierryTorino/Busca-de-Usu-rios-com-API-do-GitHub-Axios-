@@ -1,4 +1,4 @@
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://busca-de-usu-rios-com-api-do-git-hu.vercel.app/)
+[![Deploy with Vercel](https://vercelbadge.vercel.app/api/button/dark)](https://busca-de-usu-rios-com-api-do-git-hu.vercel.app/)
 
 # 🔍 Buscador de Perfis do GitHub
 
